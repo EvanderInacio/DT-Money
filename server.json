@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2023-01-22T14:30:51.089Z"
+    },
+    {
+      "description": "Jogo",
+      "category": "Game",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2023-01-23T21:24:39.096Z",
+      "id": 4
+    },
+    {
+      "description": "Banana",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-01-23T21:47:47.528Z",
+      "id": 5
     }
   ]
 }
