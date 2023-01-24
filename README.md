@@ -10,7 +10,7 @@
 
 <br>
 
-![Resultado final do projeto]()
+![Resultado final do projeto](https://raw.githubusercontent.com/EvanderInacio/DT-Money/master/src/assets/dt-money.png)
 
 <br>
 
