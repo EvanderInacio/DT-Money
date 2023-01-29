@@ -4,7 +4,6 @@ import { SearchContainer } from './styles'
 import * as z from 'zod'
 import { zodResolver } from '@hookform/resolvers/zod'
 import { useContextSelector } from 'use-context-selector'
-import { useContext } from 'react'
 import { TransactionsContext } from '../../contexts/TransactionsContext'
 
 const searchFormSchema = z.object({

@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-01-23T21:47:47.528Z",
       "id": 5
+    },
+    {
+      "description": "GTA V",
+      "category": "Game",
+      "price": 60,
+      "type": "outcome",
+      "createdAt": "2023-01-29T02:16:16.808Z",
+      "id": 6
     }
   ]
 }
